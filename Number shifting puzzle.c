@@ -1,4 +1,4 @@
-//PROjECT 1
+//PROJECT 1
 #include<stdio.h>
 #include<time.h>
 #include <conio.h>
